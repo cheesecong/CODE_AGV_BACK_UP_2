@@ -1,0 +1,1 @@
+[10:27:41.648] Mở cổng COM7 thành công @ 115200bps, timeout=35ms
